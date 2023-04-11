@@ -1,7 +1,4 @@
-# PhaseFIT
-Phase-IF image transformation for organoids' phenotypic study
-
-Tile: PhaseFIT:  Live-Organoid Phase-Fluorescent Image Transformation via Generative AI
+# PhaseFIT: Live-Organoid Phase-Fluorescent Image Transformation via Generative AI
 
 Joint work by Harvard Medical School, Mass General Hospital, Sichuan Univeristy and Tencent AI.
 
