@@ -1,6 +1,6 @@
 # PhaseFIT: Live-Organoid Phase-Fluorescent Image Transformation via Generative AI
 
-Joint work by Harvard Medical School, Mass General Hospital, Sichuan Univeristy and Tencent AI.
+Joint work by Harvard Medical School, Sichuan Univeristy and Tencent AI.
 
 The code is available upon request. We will share the code through Github once this manuscript has
 been accepted.
